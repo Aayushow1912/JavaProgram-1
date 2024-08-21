@@ -1,5 +1,5 @@
-class AI
-    public static void main(String[] args) {
-        System.out.println("Hello AI");
+public class AI{
+    public static void main(String args[]){
+        System.out.print("Hello AI");
     }
 }
